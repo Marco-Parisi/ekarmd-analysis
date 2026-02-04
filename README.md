@@ -1,4 +1,4 @@
-# Analisi comparativa OULU vs EKAR: Risposta al Forbush Decrease generato dall'X-Flare del 18/01/2026
+# Analisi comparativa EKAR vs OULU: Risposta al Forbush Decrease generato dall'X-Flare del 18/01/2026
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1chSIBGrRjRmNUi7_lBAMGsEk7vLY6qjA/view">
