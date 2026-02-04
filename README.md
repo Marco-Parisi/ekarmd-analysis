@@ -1,12 +1,16 @@
 # Analisi comparativa OULU vs EKAR: Risposta al Forbush Decrease generato dall'X-Flare del 18/01/2026
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1chSIBGrRjRmNUi7_lBAMGsEk7vLY6qjA/view">
+    <img src="https://github.com/user-attachments/assets/025aea90-1bf4-4d15-abf5-674e807bb49c">
+  </a>
+</p>
+
 ## Obiettivo dell'Analisi
 
 * Validare e caratterizzare il rivelatore di muoni **EKAR** (bassa statistica $\approx 230$ CPM) confrontandolo con il monitor di neutroni **OULU** (alta statistica $\approx 5000$ CPM, standard scientifico), durante un evento di attività solare significativo (*Forbush Decrease*).
 
 * Quantificare **come** la diversa fisica (Muoni vs Neutroni) e la diversa posizione geografica influenzano le misure.
-
-
 
 ## Metodologia
 
