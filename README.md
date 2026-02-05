@@ -1,3 +1,5 @@
+> Questa repository fa parte del topic: https://github.com/topics/ekar-muon-detector-project 
+ 
 # Analisi comparativa EKAR vs OULU: Risposta al Forbush Decrease generato dall'X-Flare del 18/01/2026
 
 <p align="center">
@@ -76,3 +78,4 @@ La differenza fondamentale è la **Rigidità di Taglio** $R_c$ :
 Infine, il ritardo di 2 ore non è un difetto, ma una caratteristica del suo cono di accettazione nel campo geomagnetico e della posizione relativa.
 
 In conclusione, **EKAR** è uno strumento complementare e molto meno costoso (**EKAR** $\sim$ 2800€ vs **OULU** più di 250 mila € solo il rivelatore) che sonda una porzione più energetica dello spettro dei raggi cosmici.
+
