@@ -79,3 +79,5 @@ Infine, il ritardo di 2 ore non è un difetto, ma una caratteristica del suo con
 
 In conclusione, **EKAR** è uno strumento complementare e molto meno costoso (**EKAR** $\sim$ 2800€ vs **OULU** più di 250 mila € solo il rivelatore) che sonda una porzione più energetica dello spettro dei raggi cosmici.
 
+> Ho creato quest'animazione utilizzando python per il grafico e inserendolo ai video scaricati da: NASA/SDO (AIA), ESA/NASA SOHO (LASCO C3), NASA STEREO-A (SECCHI COR2)
+
